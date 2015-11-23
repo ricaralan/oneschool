@@ -1,6 +1,8 @@
 /**
+* Tis module help to generate id's
 *
 * @author Alan Olivares
+* @version 1.0.1
 */
 module.exports = function () {
 

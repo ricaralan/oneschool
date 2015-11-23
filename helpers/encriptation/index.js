@@ -1,10 +1,7 @@
 /**
-*	Este modulo sirve para encriptar y desencriptar lo que se requiera...
-*	Si es necesario cambiar la key por defecto tiene que ser en la instalación.
-*	Ya que despues no se podrá por que entonces no se podría decifrar lo que
-*	se ha guardado en base de datos.
+*	This module help to cipher and decipher Strings
 *
-*	@version 0.0.1
+*	@version 1.2.1
 *	@author Alan Olivares
 */
 
